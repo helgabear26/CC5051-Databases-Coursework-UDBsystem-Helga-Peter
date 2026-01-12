@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<displays>
+<display id="a3327531-019b-1000-8004-0a00003a126a" type="" style="Table" enable="true">
+	<name><![CDATA[Academic Staff employed by the CIS Department]]></name>
+	<description><![CDATA[]]></description>
+	<tooltip><![CDATA[]]></tooltip>
+	<drillclass><![CDATA[]]></drillclass>
+	<CustomValues>
+		<TYPE><![CDATA[horizontal]]></TYPE>
+	</CustomValues>
+	<query>
+		<sql><![CDATA[SELECT * FROM v_cis_academicstaff]]></sql>
+	</query>
+</display>
+</displays>
