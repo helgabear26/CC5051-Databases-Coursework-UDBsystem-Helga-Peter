@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<displays>
+<display id="a38d119f-019b-1000-8004-0a00003a3ef2" type="" style="Table" enable="true">
+	<name><![CDATA[Female and Male Academic Staff members employed by CIS Department]]></name>
+	<description><![CDATA[]]></description>
+	<tooltip><![CDATA[]]></tooltip>
+	<drillclass><![CDATA[]]></drillclass>
+	<CustomValues>
+		<TYPE><![CDATA[horizontal]]></TYPE>
+	</CustomValues>
+	<query>
+		<sql><![CDATA[SELECT * FROM v_cis_count_by_gender]]></sql>
+	</query>
+</display>
+</displays>
